@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/com.mobilepearls.react-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_menuitem_text">About</string>
+    <string name="about_text">React! $VERSION$\n\nby Mobile Pearls\nhttp://mobilepearls.com/</string>
+    <string name="app_name">React!</string>
+    <string name="highscore_menuitem_text">High Score</string>
+    <string name="no_high_score">No high score!</string>
+    <string name="restart_menuitem_text">Restart</string>
+</resources>
